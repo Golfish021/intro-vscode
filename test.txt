@@ -2,3 +2,4 @@ hello world
 updatering
 new test
 added new feature
+i fixed the bug
